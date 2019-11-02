@@ -1823,7 +1823,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #de4290;
+  background: #d5e883;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3015,6 +3015,13 @@ body,
   background-color: #00bcd4;
   box-shadow: 1px 1px 3px #b4b4b4;
 }
+.site-title {
+  font-family: MengMengZiTi-2;
+}
+.site-subtitle {
+  margin: 0;
+  color: #fffafa;
+}
 .menu,
 .sidebar-inner {
   background-color: #fffafa;
@@ -3044,4 +3051,7 @@ body,
 .back-to-top {
   background-color: #20b2aa;
   opacity: 1;
+}
+.post-body a {
+  color: #00bcd4;
 }
